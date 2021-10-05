@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="login">
+    <file>images/images.jpg</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>images/back_icon.png</file>
+    <file>images/done_icon.png</file>
+    <file>images/good_email.png</file>
+    <file>images/icons8-back-50.png</file>
+    <file>images/icons8-remove-24.png</file>
+    <file>images/icons8-start-48.png</file>
+    <file>images/login_icon.png</file>
+    <file>images/logout_icon.png</file>
+    <file>images/main_app_image.jpg</file>
+    <file>images/main_icon.png</file>
+    <file>images/predict_icon.png</file>
+    <file>images/select_icon.png</file>
+    <file>images/sidebar_icon.png</file>
+    <file>images/spam_icon.png</file>
+    <file>images/train.png</file>
+  </qresource>
+</RCC>
