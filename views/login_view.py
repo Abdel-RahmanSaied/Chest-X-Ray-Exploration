@@ -107,7 +107,7 @@ class Ui_Form(object):
         self.password_lin.setPlaceholderText(_translate("Form", "123...."))
         self.label_26.setText(_translate("Form", "User name"))
         self.label_27.setText(_translate("Form", "Password"))
-        self.username_lin.setPlaceholderText(_translate("Form", "Abdel-Rahman Saied"))
+        self.username_lin.setPlaceholderText(_translate("Form", "Fatma Amr ......."))
         self.login_button.setText(_translate("Form", "Login"))
         self.create_account_lbl_11.setText(_translate("Form", "or create new account ?"))
 import app_resources_rc
