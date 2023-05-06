@@ -333,6 +333,9 @@ font: 75 24pt &quot;Cairo&quot;;</string>
       <property name="text">
        <string>path to file.............</string>
       </property>
+      <property name="scaledContents">
+       <bool>true</bool>
+      </property>
       <property name="alignment">
        <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
       </property>
